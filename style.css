@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.first-part {
+    background-color: rgb(226, 176, 12);
+    text-align: center;
+    padding: 10px;
+}
+
+.second-part {
+    text-decoration: none;
+    list-style-type: none;
+    background-color: rgb(203, 212, 212);
+
+}
+
+.second-part ul {
+    vertical-align: middle;
+}
+
+.second-part ul li {
+    display: inline-block;
+    padding: 20px;
+}
+
+
+.third-part{
+    margin-top: 2%;
+}
+.third-part ul li{
+    display: inline-block;
+    vertical-align: middle;
+}
+.third-part ul li a {
+ text-decoration: none;
+}
+
+
+.fourth-part{
+    margin-top: 2%;
+}
+.fourth-part div{
+    display: inline-block;
+    margin-left: 5%;
+}
+.fourth-part div span{
+    vertical-align: middle;
+}
