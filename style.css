@@ -4,24 +4,24 @@
 
 }
 
-.first-part {
+.highlight {
     background-color: rgb(226, 176, 12);
     text-align: center;
     padding: 10px;
 }
 
-.second-part {
+.menubar {
     text-decoration: none;
     list-style-type: none;
     background-color: rgb(203, 212, 212);
 
 }
 
-.second-part ul {
+.menubar ul {
     vertical-align: middle;
 }
 
-.second-part ul li {
+.menubar ul li {
     display: inline-block;
     padding: 20px;
 }
